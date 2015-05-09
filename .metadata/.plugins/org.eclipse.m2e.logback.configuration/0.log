@@ -2055,3 +2055,449 @@
 2015-05-09 11:09:25,382 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2015-05-09 11:09:25,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-05-09 11:09:25,383 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:28,518 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 11:25:28,657 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:25:28,712 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:25:28,724 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 11:25:28,810 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 11:25:28,811 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 11:25:28,811 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 11:25:28,811 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 11:25:28,850 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 11:25:28,850 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 11:25:28,851 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 11:25:28,851 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 11:25:28,956 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 11:25:29,450 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:29,451 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:29,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:29,452 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:29,469 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:29,469 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:29,470 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:29,470 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:38,406 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:38,406 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:25:38,407 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:25:38,408 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:26:12,305 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:26:12,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:26:12,355 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:26:12,356 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:26:12,357 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:26:52,058 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:26:52,059 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:26:52,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:26:52,060 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:27:02,759 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:27:02,760 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:27:02,762 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:27:02,762 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:27:26,579 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:27:26,579 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:27:26,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:27:26,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:30,026 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:28:30,066 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:30,066 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:30,068 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:30,068 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:50,323 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:50,324 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:50,326 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:50,326 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:54,795 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:28:54,831 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:54,832 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:28:54,833 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:28:54,833 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:08,002 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 11:29:08,094 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:29:08,138 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:29:08,147 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 11:29:08,203 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 11:29:08,203 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 11:29:08,204 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 11:29:08,204 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 11:29:08,245 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 11:29:08,246 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 11:29:08,246 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 11:29:08,246 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 11:29:08,397 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:29:08,493 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:29:08,526 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 11:29:08,676 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:08,676 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:08,677 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:08,678 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:08,697 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:08,697 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:08,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:08,698 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:18,801 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:18,802 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:29:18,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:29:18,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:13,145 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:13,146 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:13,147 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:13,147 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:13,154 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:13,154 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:13,155 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:13,155 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:25,960 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 11:37:26,059 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:37:26,107 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:37:26,116 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 11:37:26,181 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 11:37:26,182 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 11:37:26,182 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 11:37:26,182 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 11:37:26,215 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 11:37:26,216 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 11:37:26,216 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 11:37:26,216 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 11:37:26,310 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 11:37:26,480 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:26,480 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:26,481 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:26,481 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:26,496 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:26,496 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:26,497 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:26,497 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:30,013 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:30,013 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:37:30,014 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:37:30,015 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:48:54,827 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 11:48:54,920 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:48:54,963 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:48:54,972 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 11:48:55,038 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 11:48:55,038 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 11:48:55,038 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 11:48:55,038 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 11:48:55,070 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 11:48:55,070 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 11:48:55,071 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 11:48:55,071 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 11:48:55,146 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 11:48:55,336 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:48:55,336 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:48:55,337 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:48:55,337 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:48:55,351 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:48:55,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:48:55,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:48:55,353 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:49:01,706 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:49:01,706 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:49:01,707 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:49:01,707 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:53:57,574 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 11:53:57,617 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:53:57,658 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:53:57,786 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:53:57,786 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:53:57,787 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:53:57,787 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:53:57,801 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:53:57,802 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:53:57,802 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:53:57,802 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:01,556 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:01,556 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:01,558 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:01,558 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:01,568 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:01,569 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:01,570 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:01,570 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:10,181 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 11:56:10,219 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:10,219 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:10,220 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:10,221 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:21,945 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:56:21,978 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:21,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:56:21,979 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:56:21,980 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:58:32,056 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 11:58:32,111 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:58:32,145 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 11:58:32,145 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 11:58:32,145 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 11:58:32,145 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 11:58:32,262 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 11:58:32,293 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 11:58:32,453 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:58:32,453 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:58:32,454 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:58:32,454 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:58:33,488 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:58:33,488 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 11:58:33,489 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 11:58:33,489 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:04:22,876 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:04:22,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:04:22,911 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:04:22,912 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:04:22,912 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:04:23,375 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:460) ~[org.eclipse.m2e.core.ui_1.5.1.20150109-1820.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1128) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:136) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4147) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3764) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:175) [org.eclipse.jface_3.10.2.v20141021-1035.jar:na]
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:390) [org.eclipse.jface_3.10.2.v20141021-1035.jar:na]
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527) [org.eclipse.jface_3.10.2.v20141021-1035.jar:na]
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:284) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.disconnectFromWorkspace(IDEWorkbenchAdvisor.java:516) [org.eclipse.ui.ide.application_1.0.501.v20141111-1238.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.postShutdown(IDEWorkbenchAdvisor.java:349) [org.eclipse.ui.ide.application_1.0.501.v20141111-1238.jar:na]
+	at org.eclipse.ui.internal.Workbench.shutdown(Workbench.java:3111) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1167) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.Workbench.access$21(Workbench.java:1079) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.Workbench$19.run(Workbench.java:1410) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1407) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1380) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1556) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.access$15(WorkbenchWindow.java:1527) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$10.run(WorkbenchWindow.java:1592) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1589) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1603) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.WorkbenchWindow$6.close(WorkbenchWindow.java:521) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer$11.shellClosed(WBWRenderer.java:563) [org.eclipse.e4.ui.workbench.renderers.swt_0.12.2.v20150204-1353.jar:na]
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:98) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:308) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1696) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4612) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(OS.java:2544) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:498) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4705) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:339) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1626) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5023) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759) [org.eclipse.swt.win32.win32.x86_64_3.103.2.v20150203-1351.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20141126-1150.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032) [org.eclipse.e4.ui.workbench.swt_0.12.100.v20141126-1150.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148) [org.eclipse.e4.ui.workbench_1.2.2.v20141212-1259.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332) [org.eclipse.core.databinding.observable_1.4.1.v20140210-1835.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150) [org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135) [org.eclipse.ui.ide.application_1.0.501.v20141111-1238.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.200.v20130910-1609.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.10.2.v20150203-1939.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.10.2.v20150203-1939.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380) [org.eclipse.osgi_3.10.2.v20150203-1939.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235) [org.eclipse.osgi_3.10.2.v20150203-1939.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_45]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465) [org.eclipse.equinox.launcher_1.3.0.v20140415-2008.jar:na]
+2015-05-09 12:07:26,634 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 12:07:27,261 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:07:27,313 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:07:27,324 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:07:27,618 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 12:07:27,619 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 12:07:27,619 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 12:07:27,619 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 12:07:27,680 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 12:07:27,680 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 12:07:27,680 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 12:07:27,680 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 12:07:27,932 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:07:27,972 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-05-09 12:07:28,296 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:28,300 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:07:28,302 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:28,303 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:07:28,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:28,321 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:07:28,322 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:28,322 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:07:29,391 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:29,393 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:07:29,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:07:29,394 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:45,463 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:15:45,517 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:15:45,563 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:15:45,699 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:45,699 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:45,700 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:45,701 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:45,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:45,718 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:45,719 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:45,719 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:54,918 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:15:54,969 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:15:55,010 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:15:55,142 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:55,142 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:55,144 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:55,144 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:55,161 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:55,162 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:15:55,163 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:15:55,163 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:31,907 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 12:16:31,929 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:16:31,980 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:16:32,028 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:16:32,114 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 12:16:32,304 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:32,304 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:32,305 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:32,306 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:32,323 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:32,323 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:32,324 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:32,325 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:57,859 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:16:57,910 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:16:57,952 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:16:58,050 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:58,051 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:58,052 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:58,052 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:58,067 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:58,067 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:16:58,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:16:58,069 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:18,562 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:17:18,599 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:18,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:18,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:18,600 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:55,412 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:17:55,459 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:17:55,501 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:17:55,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:55,607 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:55,608 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:55,608 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:55,622 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:55,622 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:17:55,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:17:55,623 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:12,535 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:18:12,585 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:18:12,623 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:18:12,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:12,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:12,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:12,721 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:12,735 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:12,735 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:12,736 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:12,737 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:28,813 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 12:18:28,895 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:18:28,945 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:18:29,013 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/maven-metadata.xml
+2015-05-09 12:18:29,076 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/maven-metadata.xml
+2015-05-09 12:18:29,081 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:18:29,135 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 12:18:29,135 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 12:18:29,135 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 12:18:29,135 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 12:18:29,175 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 12:18:29,175 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 12:18:29,175 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 12:18:29,175 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 12:18:29,341 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:18:29,423 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:18:29,464 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 12:18:29,627 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:29,627 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:29,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:29,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:29,640 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:29,641 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:29,641 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:29,642 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:30,705 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:30,706 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:18:30,709 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:18:30,709 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:17,813 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:19:17,863 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:19:17,907 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:19:18,007 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:18,007 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:18,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:18,008 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:18,022 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:18,022 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:18,023 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:18,023 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:36,143 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-05-09 12:19:36,220 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Data:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Data\pom.xml.
+2015-05-09 12:19:36,260 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:19:36,301 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/maven-metadata.xml
+2015-05-09 12:19:36,360 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/maven-metadata.xml
+2015-05-09 12:19:36,364 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.puresec.logic:PureSec:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\PureSec\pom.xml.
+2015-05-09 12:19:36,420 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/main/java
+2015-05-09 12:19:36,420 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/main/resources
+2015-05-09 12:19:36,421 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Data/src/test/java
+2015-05-09 12:19:36,421 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Data/src/test/resources
+2015-05-09 12:19:36,451 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/main/java
+2015-05-09 12:19:36,452 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/main/resources
+2015-05-09 12:19:36,452 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Logic/src/test/java
+2015-05-09 12:19:36,452 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Logic/src/test/resources
+2015-05-09 12:19:36,538 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-05-09 12:19:36,665 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:36,665 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:36,665 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:36,666 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:36,678 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:36,679 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:36,679 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:36,679 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:37,696 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:37,697 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:19:37,698 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:19:37,698 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:20:30,507 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Programming\Workspaces\pureSec\Logic
+2015-05-09 12:20:30,507 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2015-05-09 12:20:30,694 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.puresec.logic:Logic:0.0.1-SNAPSHOT @ E:\Programming\Workspaces\pureSec\Logic\pom.xml.
+2015-05-09 12:20:30,731 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:20:30,731 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-09 12:20:30,732 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-09 12:20:30,732 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

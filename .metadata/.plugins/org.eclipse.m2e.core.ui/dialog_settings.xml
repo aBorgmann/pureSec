@@ -40,6 +40,8 @@
 		<item value="193" key="y"/>
 		<item value="450" key="height"/>
 	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.LocalArchetypeCatalogDialog">
+	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
 		<item value="480" key="width"/>
 		<item value="720" key="x"/>
@@ -69,6 +71,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.preferences.RemoteArchetypeCatalogDialog">
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
