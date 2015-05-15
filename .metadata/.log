@@ -695,3 +695,534 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-15 08:54:41.545 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-15 08:55:00.841
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-15 08:55:00.842
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Alken'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:01:58.178
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:01:59.448
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.equinox.security 1 0 2015-05-15 09:05:39.900
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:45.271
+!MESSAGE Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:45.283
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:46.810
+!MESSAGE Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:48.272
+!MESSAGE Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:48.284
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:49.757
+!MESSAGE Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:49.771
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:53.490
+!MESSAGE Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:53.502
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:12:53.901
+!MESSAGE Skipping resource folder /Presentation
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.519
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.526
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.536
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.557
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.566
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.594
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.602
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.619
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.638
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.846
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:54.864
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.911
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.917
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.927
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.945
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.953
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.980
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:55.987
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:56.001
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:56.008
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.094
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.102
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.112
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.131
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.139
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.166
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.173
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.188
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.194
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.227
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:12:57.232
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:14.338
+!MESSAGE Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:14.349
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:15.786
+!MESSAGE Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:17.226
+!MESSAGE Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:17.238
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:18.677
+!MESSAGE Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:18.689
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:22.443
+!MESSAGE Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:22.455
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:18:22.678
+!MESSAGE Skipping resource folder /Presentation
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.017
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.023
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.032
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.051
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.059
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.087
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.094
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.109
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.117
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.145
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:18:23.151
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.474
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.482
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.492
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.518
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.528
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.557
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.564
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.579
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.586
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.684
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:19:37.686
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.442
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.449
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.459
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.479
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.487
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.515
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.521
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.536
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:22:37.543
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:22:39.766
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:22:46.333
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.242
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.251
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.262
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.286
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.327
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.368
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.378
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.394
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.403
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.504
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.511
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.523
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.550
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.559
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.593
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.604
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.622
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.631
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.776
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.783
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.794
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.825
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.833
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.863
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.869
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.884
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:26.891
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.393
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.399
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.409
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.429
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.437
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.464
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.472
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.487
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.495
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.607
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.613
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.623
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.642
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.650
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.681
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.688
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.704
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:36.711
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:55.465
+!MESSAGE Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:55.476
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:56.924
+!MESSAGE Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:58.359
+!MESSAGE Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:58.374
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:59.827
+!MESSAGE Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:24:59.839
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:03.634
+!MESSAGE Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:03.645
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:25:03.869
+!MESSAGE Skipping resource folder /Presentation
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.226
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.233
+!MESSAGE Failure to transfer org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:junit.osgi:3.8.2-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.242
+!MESSAGE Failure to transfer org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:osgi-repo:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.260
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.268
+!MESSAGE Failure to transfer org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:asm.osgi:2.2.3-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.293
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.299
+!MESSAGE Failure to transfer org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:aopalliance.osgi:1.0-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.313
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:25:04.319
+!MESSAGE Failure to transfer org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from http://m2.safehaus.org was cached in the local repository, resolution will not be reattempted until the update interval of safehaus-repository has elapsed or updates are forced. Original error: Could not transfer metadata org.springframework.osgi:log4j.osgi:1.2.15-SNAPSHOT/maven-metadata.xml from/to safehaus-repository (http://m2.safehaus.org): m2.safehaus.org
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:35:49.696
+!MESSAGE Failed to read Maven project: 1 problem was encountered while building the effective model for com.puresec.controlcenter:Domain:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM: Could not find artifact com.puresec.controlcenter:Puresec:pom:0.0.1-SNAPSHOT and 'parent.relativePath' points at wrong local POM @ line 3, column 11
+ for project com.puresec.controlcenter:Domain:0.0.1-SNAPSHOT at E:\Programming\Workspaces\pureSec\Domain\pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:37:15.956
+!MESSAGE The POM for com.puresec.controlcenter:Domain:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:35.363
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:35.485
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:36.621
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:48.582
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:48.630
+!MESSAGE The POM for com.puresec.controlcenter:Logic:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:48.686
+!MESSAGE The POM for com.puresec.controlcenter:Logic:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:44:49.886
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:31.492
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:31.598
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:32.681
+!MESSAGE The POM for com.puresec.controlcenter:Data:jar:0.0.1-SNAPSHOT is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:45:51.667
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/Domain/pom.xml)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-05-15 09:45:51.797
+!MESSAGE Could not read pom.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:51.842
+!MESSAGE The POM for com.puresec.controlcenter:Domain:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:52.064
+!MESSAGE The POM for com.puresec.controlcenter:Domain:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:52.083
+!MESSAGE The POM for com.puresec.controlcenter:Domain:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-05-15 09:45:52.105
+!MESSAGE The POM for com.puresec.controlcenter:Domain:jar:0.0.1-SNAPSHOT is missing, no dependency information available
