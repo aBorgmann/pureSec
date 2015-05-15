@@ -14,10 +14,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<modules>
-		<module>../Logic</module>
-		<module>../Data</module>
-		<module>../Presentation</module>
-		<module>../Domain</module>
+		<module>Logic</module>
+		<module>Data</module>
+		<module>Presentation</module>
+		<module>Domain</module>
 	</modules>
 
 	<dependencies>
