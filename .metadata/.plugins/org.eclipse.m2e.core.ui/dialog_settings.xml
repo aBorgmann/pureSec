@@ -2,14 +2,15 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.puresec.logic"/>
+			<item value="com.puresec.controlcenter"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Test"/>
+			<item value="Domain"/>
 			<item value="Puresec"/>
-			<item value="Data"/>
+			<item value="Presentation"/>
+			<item value="PureSec"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

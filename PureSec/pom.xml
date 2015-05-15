@@ -16,8 +16,6 @@
 	<modules>
 		<module>Logic</module>
 		<module>Data</module>
-		<module>Presentation</module>
-		<module>Domain</module>
 	</modules>
 
 	<dependencies>
